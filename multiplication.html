@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+   <meta charset="utf-8" />
+    <!--javascript kodları headin içine yazılır,script tagı içersine yerleştirilir-->
+    <h2 style="color:red">Multiplication Table</h2>
+   
+    <div style="background-color:aqua;width:233px">
+        <table border="1">
+            <script>
+                document.write("<table border=1>");
+                for (var i = 1; i <= 10; i++) {
+                    document.write("<tr>")
+                    for (var j = 1; j <= 10; j++) {
+                        document.write("<td>" + i * j + "</td>");
+                    }
+                    document.write("</tr>")
+                }
+                document.write("</table>");
+            </script>
+        </table>
+    </div>
+</head>
+ <body>
+</body>
+</html>
