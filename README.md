@@ -1,4 +1,4 @@
-# Short execercises for who work on pc for long hours
+# Short execercises for who work on pc for hours
 ![banner resmi](https://github.com/MucahitHamarat/Quiz/blob/master/images/exercise.png)
 ## h2
 
