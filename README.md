@@ -11,5 +11,5 @@
 
 [StackOverFlow Linki](https://stackoverflow.com/)
 </br>
-[banner](https://github.com/MucahitHamarat/Quiz/blob/master/images/exercise.png)
+[banner resmi](https://github.com/MucahitHamarat/Quiz/blob/master/images/exercise.png)
 
