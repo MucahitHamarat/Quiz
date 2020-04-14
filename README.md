@@ -1,4 +1,5 @@
-# h1
+# Bu bir deneme reposudur
+![banner resmi](https://github.com/MucahitHamarat/Quiz/blob/master/images/exercise.png)
 ## h2
 
 **bold kelime**
@@ -11,5 +12,5 @@
 
 [StackOverFlow Linki](https://stackoverflow.com/)
 </br>
-[banner resmi](https://github.com/MucahitHamarat/Quiz/blob/master/images/exercise.png)
+
 
